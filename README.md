@@ -1,2 +1,23 @@
-# test-cmdq3ayyj0-3b159f7a-1753887511393
-Temporary repository for test cmdq3ayyj0001unn4espfv5wa by user 3b159f7a-2ed9-40ac-85f1-4e013cbbcdf4
+# Financial Index Administration Tool
+
+This project is a basic web application for creating and managing financial indexes.
+
+## Setup
+
+### Backend (Java)
+
+1.  Navigate to the `backend` directory.
+2.  Run `mvn spring-boot:run` to start the Spring Boot application.
+
+### Frontend (Angular)
+
+1.  Navigate to the `frontend` directory.
+2.  Run `npm install` to install dependencies.
+3.  Run `ng serve` to start the Angular development server.
+
+## Running Tests
+
+### Backend (Java)
+
+1. Navigate to the `backend` directory.
+2. Run `mvn test` to execute JUnit tests.
